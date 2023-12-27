@@ -33,7 +33,7 @@ body{
 }
 
 .hero__text span{
-    font-weight: bold;
+    font-weight: 300;
     font-size: 9rem;
 }
 .hero__images{
@@ -83,6 +83,7 @@ body{
     align-self: flex-start;
     margin: 100px 0px;
     padding: 0 40px;
+    color: rgba(0, 0, 0, 0.486);
 }
 .text__effect p{
     font-size: 2.5rem;
@@ -96,4 +97,3 @@ body{
     clip-path: polygon(12% 13%, 83% 13%, 83% 83%, 12% 83%);
 
 }
-
